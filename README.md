@@ -19,5 +19,3 @@ But I love creating languages, libraries and I dream to work in JetbrainsğŸ‡¨ğŸ‡
 
 
 <h3 align="center">Thanks</h3>
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=rain_enjoyer&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
