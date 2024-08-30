@@ -16,3 +16,8 @@
 I'm new here, so... I have no need to write something in here due it's an empty profile yet
 
 But I love creating languages, libraries and I dream to work in Jetbrains🇨🇿.
+
+
+<h3 align="center">Thanks</h3>
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=rain_enjoyer&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
