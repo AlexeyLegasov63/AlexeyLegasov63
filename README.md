@@ -12,10 +12,15 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
+My name is Alex, I am seventeen years old, I live in Transylvania. 
 
-I'm new here, so... I have no need to write something in here due it's an empty profile yet
+I have been programming since I was 11. In the beggining it was simple programs in Python, then I started creating games in Roblox in Lua. At 13 years I started writing in Java, but instead of learning frameworks, standards and reading books, 13 year old me preferred to write plugins for Minecraft...
 
-But I love creating languages, libraries and I dream to work in Jetbrains🇨🇿.
+But besides Minecraft, I wrote simple applications in Swing, JavaFX, dealt with LWJGL and even studied the structure of the JVM virtual machine. At 14-15, I wrote a little in C# when I was creating a game in Unity, but the project is closed. I also wrote apps in C++ Winforms.
+
+So it turned out that I know Java completely, it became my favorite language, but I have little experience with libraries and frameworks.
+
+Gamedev has ceased to interest me now and I want to develop programming languages, write libraries and software for them. I really like it. I dream to work in Jetbrains 🇨🇿.
 
 
 <h3 align="center">Thanks</h3>
