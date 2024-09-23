@@ -14,10 +14,10 @@
 
 I have been programming since I was 11. In the beggining it was simple programs in Python, then I started creating games in Roblox in Lua. At 13 years I started writing in Java, but instead of learning frameworks, standards and reading books, 13 year old me preferred to write plugins for Minecraft...
 
-But besides Minecraft, I wrote simple applications in Swing, JavaFX, dealt with LWJGL 3 and even studied the structure of the JVM virtual machine. At 14-15, I wrote a little in C# when I was creating a game in Unity, but the project is closed. I also wrote apps in C++ Winforms.
+But besides Minecraft, I wrote simple applications in Swing, JavaFX, dealt with LWJGL 3 and even studied the structure of the JVM virtual machine. At 14-15, I wrote a little in C# when I was creating a game in Unity, but the project is closed. I also wrote apps in C++ Winforms, OpenGL, GLFW, ImGui.
 
 So it turned out that I know Java completely, it became my favorite language, but I have little experience with libraries and frameworks.
-
-Gamedev has almost ceased to interest me now and I want to develop programming languages, write libraries and software for them. I really like it.
+I'm currently learning C++ and Python modules to expand my technology stack.
+And I would like to devote my life to programming. I really like it.
 
 <h3 align="center">Thanks</h3>
