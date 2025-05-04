@@ -1,23 +1,70 @@
-<h1 align="center">Salut to Everyone, my name is Alex👋</h1>
-<h3 align="center">Computer science student, Game developer.</h3>
+<h1 align="center">👋 Salut, I'm Alex!</h1>
+<h3 align="center">🎓 Computer Science Student | 🎮 Game Developer | 💻 C++ Enthusiast</h3>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
 
-I have been programming since I was 10. In the beggining it was simple programs in Python, then I started creating games in Roblox in Lua. At 13 years I started writing in Java, but instead of learning frameworks, standards and reading books, 13 year old me preferred to write plugins for Minecraft...
+---
 
-But besides Minecraft, I wrote simple applications in Swing, JavaFX, dealt with LWJGL 3 and even studied the structure of the JVM virtual machine. At 14-15, I wrote a little in C# when I was working on a game in Unity, but the project was closed. I also have been writing apps in C++ Winforms, OpenGL, GLFW, ImGui.
+### 🧠 About Me
 
-So it turned out that I know Java completely, it became my favorite language, but I have little experience with libraries and frameworks.
-I'm currently using C++ and Python modules to expand my technology stack.
-And I would like to devote my life to programming. I really like it.
+- 🧒 Started programming at 10 with Python  
+- 🕹️ Built Lua games on Roblox at 11  
+- ☕ Discovered Java at 13 – wrote Minecraft "S.T.A.L.K.E.R." server 
+- 🧪 Explored Swing, JavaFX, LWJGL 3, and JVM internals  
+- 🎮 Tried Unity with C# at 14-15  
+- 🧊 Transitioned to C++ (WinAPI, OpenGL, GLFW, ImGui)  
+- 🐍 Expanding stack with Python and native modules  
+- ❤️ Passionate about systems programming and game development
 
-<h3 align="center">Thanks</h3>
+---
+
+### 💼 Tech Stack
+
+#### 👨‍💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+#### 🛠 Tools & Frameworks
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![GLFW](https://img.shields.io/badge/GLFW-000000?style=for-the-badge&logo=glfw&logoColor=white)
+![ImGui](https://img.shields.io/badge/ImGui-1A1A1A?style=for-the-badge&logo=imgui&logoColor=white)
+![LWJGL](https://img.shields.io/badge/LWJGL-000000?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![WinAPI](https://img.shields.io/badge/WinAPI-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+#### 🗄️ Databases & DevOps
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+### 🧩 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Langs"/>
+</p>
+
+---
+
+### 📫 Contact
+
+- 📧 Email: contact.alexkarma@proton.me
+- 🌐 Website / Portfolio: [roblox](https://create.roblox.com/talent/creators/708110614)
+- 📍 Currently based in Romania  
+
+---
+
+<p align="center">
+  <strong>Thanks for stopping by! 👋</strong>
+</p>
