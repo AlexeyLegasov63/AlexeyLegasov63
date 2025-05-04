@@ -2,7 +2,7 @@
 <h3 align="center">🎓 Computer Science Student | 🎮 Game Developer | 💻 C++ Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=AlexeyLegasov63&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 ---
@@ -51,8 +51,8 @@
 ### 🧩 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexeyLegasov63&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyLegasov63&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </p>
 
 ---
